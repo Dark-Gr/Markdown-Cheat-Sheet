@@ -121,4 +121,24 @@ if(text === "hi") {
 ```
 
 ## Quotes
-We can quete others users comments
+We can quete text like others people comments.
+
+Example: `> Test`
+
+Result: 
+> Test
+
+## Tables
+
+Example: 
+```
+Centralized | Left alignment | Right alignment | Default alignment
+:---:|:---|---:|---
+Test | Test | Test | Test
+```
+
+Result: 
+
+Centralized | Left alignment | Right alignment | Default alignment
+:---:|:---|---:|---
+Test | Test | Test | Test
