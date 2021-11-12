@@ -1,6 +1,52 @@
 # Markdown-Cheat-Sheet
 Some marks are listed here, others like header are in different files
 
+## Headers
+Header marks used to indicate the start of a topic
+The available types of headers are listed bellow:
+
+### Header 1
+Example: `# Header example`
+
+Result:
+# Header 1
+---
+
+### Header 2
+Example: `## Header example`
+
+Result:
+## Header example
+---
+
+### Header 3
+Example: `### Header example`
+
+Result:
+### Header example
+---
+
+### Header 4
+Example: `#### Header example`
+
+Result:
+#### Header example
+---
+
+### Header 5
+Example: `##### Header example`
+
+Result:
+##### Header example
+---
+
+### Header 6
+Example: `###### Header example`
+
+Result:
+###### Header example
+---
+
 ## Simple MarkDown
 
 Name | Code | How to use | Result
